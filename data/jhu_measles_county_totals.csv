@@ -1,0 +1,343 @@
+location_id,location_name,location_type,total_cases
+45083,"Spartanburg, South Carolina",county,940
+48165,"Gaines, Texas",county,414
+04015,"Mohave, Arizona",county,285
+00000,"Southwest Health District, Utah",county,267
+00000,"Central Region, Virginia",county,156
+48229,"Hudspeth, Texas",county,136
+49049,"Utah, Utah",county,116
+00000,"Central, Utah",county,108
+42071,"Lancaster, Pennsylvania",county,99
+12021,"Collier, Florida",county,93
+48141,"El Paso, Texas",county,85
+00000,"Tricounty, Utah",county,80
+35025,"Lea, New Mexico",county,67
+49035,"Salt Lake, Utah",county,66
+48445,"Terry, Texas",county,60
+48303,"Lubbock, Texas",county,53
+45021,"Cherokee, South Carolina",county,36
+55083,"Oconto, Wisconsin",county,36
+20069,"Gray, Kansas",county,29
+48277,"Lamar, Texas",county,28
+00027,"Unknown County, Minnesota",county,28
+00041,"Unknown County, Oregon",county,27
+36061,"New York City, New York",county,26
+48115,"Dawson, Texas",county,26
+35029,"Luna, New Mexico",county,26
+04013,"Maricopa, Arizona",county,25
+36087,"Rockland, New York",county,25
+38067,"Pembina, North Dakota",county,23
+30031,"Gallatin, Montana",county,23
+00020,"Unknown County, Kansas",county,21
+48501,"Yoakum, Texas",county,20
+42075,"Lebanon, Pennsylvania",county,20
+42029,"Chester, Pennsylvania",county,19
+20081,"Haskell, Kansas",county,19
+38105,"Williams, North Dakota",county,19
+49045,"Tooele, Utah",county,19
+39007,"Ashtabula, Ohio",county,19
+04021,"Pinal, Arizona",county,18
+40109,"Unknown County, Oklahoma",county,18
+53011,"Clark, Washington",county,16
+53061,"Snohomish, Washington",county,16
+49011,"Davis, Utah",county,15
+39083,"Knox, Ohio",county,14
+49000,"Bear River, Utah",county,14
+48079,"Cochran, Texas",county,14
+39049,"Franklin, Ohio",county,14
+38035,"Grand Forks, North Dakota",county,14
+06067,"Sacramento, California",county,13
+13121,"Fulton, Georgia",county,13
+48135,"Ector, Texas",county,12
+49051,"Wasatch, Utah",county,12
+48201,"Harris, Texas",county,12
+06037,"Los Angeles, California",county,12
+08077,"Mesa, Colorado",county,11
+53033,"King, Washington",county,10
+00027,"Twin Cities Metro Area, Minnesota",county,10
+20189,"Stevens, Kansas",county,10
+06089,"Shasta, California",county,10
+00000,"Northern Region, Virginia",county,9
+00000,"Northwest Region, Virginia",county,9
+48309,"McLennan, Texas",county,9
+06061,"Placer, California",county,9
+08001,"Adams, Colorado",county,9
+48491,"Williamson, Texas",county,8
+48397,"Rockwall, Texas",county,8
+45045,"Greenville, South Carolina",county,8
+42049,"Erie, Pennsylvania",county,8
+46083,"Lincoln, South Dakota",county,8
+18003,"Allen, Indiana",county,8
+38017,"Cass, North Dakota",county,8
+17031,"Cook, Illinois",county,8
+10001,"Kent, Delaware",county,8
+53071,"Walla Walla, Washington",county,7
+53037,"Kittitas, Washington",county,7
+56007,"Carbon, Wyoming",county,7
+42097,"Northumberland, Pennsylvania",county,7
+37021,"Buncombe, North Carolina",county,7
+26133,"Osceola, Michigan",county,7
+26161,"Washtenaw, Michigan",county,7
+30049,"Lewis and Clark, Montana",county,7
+00045,"Unknown County, South Carolina",county,7
+48219,"Hockley, Texas",county,7
+48329,"Midland, Texas",county,7
+48111,"Dallam, Texas",county,7
+20145,"Pawnee, Kansas",county,7
+12031,"Duval, Florida",county,7
+12011,"Broward, Florida",county,7
+42133,"York, Pennsylvania",county,7
+16027,"Canyon, Idaho",county,6
+20097,"Kiowa, Kansas",county,6
+16021,"Boundary, Idaho",county,6
+00000,"Southwest Region, Virginia",county,6
+56013,"Fremont, Wyoming",county,6
+12103,"Pinellas, Florida",county,6
+38073,"Ransom, North Dakota",county,6
+08123,"Weld, Colorado",county,6
+00024,"Central Region, Maryland",county,6
+06065,"Riverside, California",county,6
+06059,"Orange, California",county,6
+08005,"Arapahoe, Colorado",county,6
+05045,"Faulkner, Arkansas",county,6
+35043,"Sandoval, New Mexico",county,6
+45077,"Pickens, South Carolina",county,6
+08065,"Lake, Colorado",county,6
+46051,"Grant, South Dakota",county,6
+21067,"Fayette, Kentucky",county,6
+00019,"Eastern, Iowa",county,6
+35013,"Dona Ana, New Mexico",county,5
+37149,"Polk, North Carolina",county,5
+29039,"Cedar, Missouri",county,5
+04005,"Coconino, Arizona",county,5
+23019,"Penobscot, Maine",county,5
+16019,"Bonneville, Idaho",county,5
+35049,"Santa Fe, New Mexico",county,5
+48369,"Parmer, Texas",county,5
+48189,"Hale, Texas",county,5
+12033,"Escambia, Florida",county,5
+00017,"Unknown County, Illinois",county,5
+39035,"Cuyahoga, Ohio",county,5
+00000,"Southeast Health District, Utah",county,5
+56039,"Teton, Wyoming",county,5
+49043,"Summit, Utah",county,5
+48459,"Upshur, Texas",county,5
+48019,"Bandera, Texas",county,5
+00000,"Upper Cumberland Region, Tennessee",county,4
+00000,"Mid-Cumberland Region, Tennessee",county,4
+48439,"Tarrant, Texas",county,4
+00006,"Unknown County, California",county,4
+48381,"Randall, Texas",county,4
+42011,"Berks, Pennsylvania",county,4
+08083,"Montezuma, Colorado",county,4
+36071,"Orange, New York",county,4
+48147,"Fannin, Texas",county,4
+42091,"Montgomery, Pennsylvania",county,4
+08041,"El Paso, Colorado",county,4
+30041,"Hill, Montana",county,4
+26117,"Montcalm, Michigan",county,4
+08014,"Broomfield, Colorado",county,4
+08031,"Denver, Colorado",county,4
+04019,"Pima, Arizona",county,4
+04017,"Navajo, Arizona",county,4
+26055,"Grand Traverse, Michigan",county,4
+26139,"Ottawa, Michigan",county,4
+46019,"Butte, South Dakota",county,4
+48085,"Collin, Texas",county,4
+26081,"Kent, Michigan",county,4
+26099,"Macomb, Michigan",county,4
+17199,"Williamson, Illinois",county,4
+34003,"Bergen, New Jersey",county,4
+30111,"Yellowstone, Montana",county,4
+21113,"Jessamine, Kentucky",county,4
+48029,"Bexar, Texas",county,3
+06081,"San Mateo, California",county,3
+00019,"Central, Iowa",county,3
+42063,"Indiana, Pennsylvania",county,3
+12101,"Pasco, Florida",county,3
+35015,"Eddy, New Mexico",county,3
+49037,"San Juan, Utah",county,3
+12099,"Palm Beach, Florida",county,3
+53065,"Stevens, Washington",county,3
+48453,"Travis, Texas",county,3
+12095,"Orange, Florida",county,3
+12109,"St. Johns, Florida",county,3
+12081,"Manatee, Florida",county,3
+15003,"Honolulu, Hawaii",county,3
+00036,"Unknown County, New York",county,3
+00031,"Unknown County, Nebraska",county,3
+48317,"Martin, Texas",county,3
+48339,"Montgomery, Texas",county,3
+24510,"Baltimore, Maryland",county,3
+16065,"Madison, Idaho",county,3
+45085,"Sumter, South Carolina",county,3
+39119,"Muskingum, Ohio",county,3
+37119,"Mecklenburg, North Carolina",county,3
+06085,"Santa Clara, California",county,3
+21239,"Woodford, Kentucky",county,3
+22071,"Region 1, Louisiana",county,3
+44007,"Providence, Rhode Island",county,3
+46011,"Brookings, South Dakota",county,3
+26121,"Muskegon, Michigan",county,3
+00034,"Unknown County, New Jersey",county,3
+02020,"Anchorage, Alaska",county,3
+34017,"Hudson, New Jersey",county,3
+48003,"Andrews, Texas",county,3
+12071,"Lee, Florida",county,3
+12057,"Hillsborough, Florida",county,3
+53063,"Spokane, Washington",county,2
+00000,"Eastern Region, Virginia",county,2
+53073,"Whatcom, Washington",county,2
+12086,"Miami-Dade, Florida",county,2
+12073,"Leon, Florida",county,2
+00000,"Nashville-Davidson County Region, Tennessee",county,2
+48163,"Frio, Texas",county,2
+16055,"Kootenai, Idaho",county,2
+48305,"Lynn, Texas",county,2
+21111,"Jefferson, Kentucky",county,2
+18089,"Lake, Indiana",county,2
+26125,"Oakland, Michigan",county,2
+30029,"Flathead, Montana",county,2
+48133,"Eastland, Texas",county,2
+48121,"Denton, Texas",county,2
+27053,"Hennepin, Minnesota",county,2
+06107,"Tulare, California",county,2
+24033,"Prince George's, Maryland",county,2
+26103,"Marquette, Michigan",county,2
+48169,"Garza, Texas",county,2
+35023,"Hidalgo, New Mexico",county,2
+37025,"Cabarrus, North Carolina",county,2
+37179,"Union, North Carolina",county,2
+46103,"Pennington, South Dakota",county,2
+46093,"Meade, South Dakota",county,2
+06109,"Tuolumne, California",county,2
+48017,"Bailey, Texas",county,2
+45081,"Saluda, South Carolina",county,2
+42101,"Philadelphia, Pennsylvania",county,2
+42041,"Cumberland, Pennsylvania",county,2
+42043,"Dauphin, Pennsylvania",county,2
+41043,"Linn, Oregon",county,2
+41005,"Clackamas, Oregon",county,2
+36029,"Erie, New York",county,2
+06019,"Fresno, California",county,2
+49057,"Weber-Morgan, Utah",county,2
+48389,"Reeves, Texas",county,2
+11001,"Washington, District of Columbia",county,2
+12001,"Alachua, Florida",county,2
+09003,"Hartford, Connecticut",county,2
+00024,"Southern Maryland, Maryland",county,2
+00016,"Unknown County, Idaho",county,2
+53025,"Grant, Washington",county,2
+50015,"Lamoille, Vermont",county,1
+50023,"Washington, Vermont",county,1
+00024,"National Capital Region, Maryland",county,1
+00021,"Unknown County, Kentucky",county,1
+00019,"Western, Iowa",county,1
+00017,"Metro East , Illinois",county,1
+00013,"Coastal Health District, Georgia",county,1
+00001,"North, Alabama",county,1
+00025,"Unknown County, Massachusetts",county,1
+09170,"South Central Connecticut, Connecticut",county,1
+08109,"Saguache, Colorado",county,1
+08101,"Pueblo, Colorado",county,1
+55133,"Waukesha, Wisconsin",county,1
+55025,"Dane, Wisconsin",county,1
+38025,"Dunn, North Dakota",county,1
+38013,"Burke, North Dakota",county,1
+42017,"Bucks, Pennsylvania",county,1
+42009,"Bedford, Pennsylvania",county,1
+06079,"San Luis Obispo, California",county,1
+06075,"San Francisco, California",county,1
+06073,"San Diego, California",county,1
+06055,"Napa, California",county,1
+36069,"Ontario, New York",county,1
+05007,"Benton, Arkansas",county,1
+04025,"Yavapai, Arizona",county,1
+41051,"Multnomah, Oregon",county,1
+39123,"Ottawa, Ohio",county,1
+39075,"Holmes, Ohio",county,1
+39039,"Defiance, Ohio",county,1
+39003,"Allen, Ohio",county,1
+38099,"Walsh, North Dakota",county,1
+38097,"Traill, North Dakota",county,1
+06013,"Contra Costa, California",county,1
+05125,"Saline, Arkansas",county,1
+46013,"Brown, South Dakota",county,1
+45049,"Hampton, South Carolina",county,1
+45013,"Beaufort, South Carolina",county,1
+42109,"Snyder, Pennsylvania",county,1
+42099,"Perry, Pennsylvania",county,1
+32003,"Clark, Nevada",county,1
+31161,"Sheridan, Nebraska",county,1
+31141,"Platte, Nebraska",county,1
+37161,"Rutherford, North Carolina",county,1
+37127,"Nash, North Carolina",county,1
+37109,"Lincoln, North Carolina",county,1
+37101,"Johnston, North Carolina",county,1
+37081,"Guilford, North Carolina",county,1
+37023,"Burke, North Carolina",county,1
+36103,"Suffolk, New York",county,1
+36079,"Putnam, New York",county,1
+42087,"Mifflin, Pennsylvania",county,1
+48065,"Carson, Texas",county,1
+48049,"Brown, Texas",county,1
+48043,"Brewster, Texas",county,1
+48039,"Brazoria, Texas",county,1
+48033,"Borden, Texas",county,1
+48027,"Bell, Texas",county,1
+48013,"Atascosa, Texas",county,1
+06113,"Yolo, California",county,1
+35045,"San Juan, New Mexico",county,1
+35009,"Curry, New Mexico",county,1
+35005,"Chaves, New Mexico",county,1
+34031,"Passaic, New Jersey",county,1
+34029,"Ocean, New Jersey",county,1
+32031,"Washoe, Nevada",county,1
+31109,"Lancaster, Nebraska",county,1
+08069,"Larimer, Colorado",county,1
+08029,"Delta, Colorado",county,1
+08013,"Boulder, Colorado",county,1
+08007,"Archuleta, Colorado",county,1
+46045,"Edmunds, South Dakota",county,1
+48113,"Dallas, Texas",county,1
+02122,"Kenai Peninsula, Alaska",county,1
+00048,"Unknown County, Texas",county,1
+00042,"Unknown County, Pennsylvania",county,1
+21219,"Todd, Kentucky",county,1
+30013,"Cascade, Montana",county,1
+29213,"Taney, Missouri",county,1
+29143,"New Madrid, Missouri",county,1
+29095,"Jackson, Missouri",county,1
+27163,"Washington, Minnesota",county,1
+27109,"Olmsted, Minnesota",county,1
+27037,"Dakota, Minnesota",county,1
+16017,"Bonner, Idaho",county,1
+26115,"Monroe, Michigan",county,1
+26065,"Ingham, Michigan",county,1
+26005,"Allegan, Michigan",county,1
+25025,"Greater Boston, Massachusetts",county,1
+24027,"Howard, Maryland",county,1
+48279,"Lamb, Texas",county,1
+48259,"Kendall, Texas",county,1
+48209,"Hays, Texas",county,1
+48203,"Harrison, Texas",county,1
+48197,"Hardeman, Texas",county,1
+21073,"Franklin, Kentucky",county,1
+18133,"Putnam, Indiana",county,1
+16081,"Teton, Idaho",county,1
+48379,"Rains, Texas",county,1
+48375,"Potter, Texas",county,1
+13029,"Bryan, Georgia",county,1
+12105,"Polk, Florida",county,1
+12097,"Osceola, Florida",county,1
+12091,"Okaloosa, Florida",county,1
+48157,"Fort Bend, Texas",county,1
+48143,"Erath, Texas",county,1
+56029,"Park, Wyoming",county,1
+56027,"Niobrara, Wyoming",county,1
+56025,"Natrona, Wyoming",county,1
+48417,"Shackelford, Texas",county,1
+48415,"Scurry, Texas",county,1
+00000,"Unknown County, Vermont",county,1
+00000,"Region 9, Louisiana",county,1
+00000,"Memphis-Shelby County Region, Tennessee",county,1
